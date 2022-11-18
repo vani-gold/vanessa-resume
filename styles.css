@@ -1,0 +1,62 @@
+/* vanessa css */
+* {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  body {
+    max-width: 1440px;
+    margin: auto;
+  }
+  main {
+    margin: auto;
+  }
+.van-body{
+    background-image: linear-gradient(to right top, #ff64b8, #d391ee, #a3b3ff, #92caf8, #add8e6);
+  }
+  .van-main-section, .van-header{
+    background-color: white;
+    width: 95%;
+    margin:23px auto;
+    border-radius: 20px;
+  }
+  .van-nav-bar{
+    width: 100%;
+    height: 50px;
+    background-color: #ff64b8;
+    display: flex;
+    flex-direction: row;
+    /* gap: 90px; */
+  }
+  .van-nav-link{
+    padding:10px;
+  }
+  .van-right{
+    padding: 10px;
+  }
+  .van-left{
+    padding: 10px;
+  }
+  .van-nav-button{
+    width: 100px;
+    background-color: #000000;
+    color: white;
+  }
+  
+  .van-nav-link{
+    text-decoration: none;
+    color: #000000;
+  }
+  .van-section{
+    display: flex;
+    gap: 50px;
+    padding: 100px;
+  }
+  .van-image-div{
+    /* height: 30%; */
+    width: 30%;
+  }
+  /* .van-section{
+    padding: 100px;
+  } */
