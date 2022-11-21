@@ -35,7 +35,7 @@
     
   }
   .van-nav-link{
-    padding:30px;
+    padding:13px;
    
   }
   .van-right{
@@ -92,8 +92,9 @@ h2{
   }
   .van-p-div{
     border: 2px solid rgb(230, 223, 241);
-    width: 30%;
-    /* display: flex; */
+    width: 370px;
+    height: 250px;
+    /* border: 2px solid black; */
   }
 
   .van-button{
